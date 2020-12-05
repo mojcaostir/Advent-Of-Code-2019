@@ -1,15 +1,16 @@
 {
   "name": "aoc2019",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "day01_1": "ts-node src/day01/part1.ts",
     "day01_2": "ts-node src/day01/part2.ts",
     "day02_1": "ts-node src/day02/part1.ts",
-    "day02_2": "ts-node src/day02/part2.ts"
+    "day02_2": "ts-node src/day02/part2.ts",
+    "day03_1": "ts-node src/day03/part1and2.ts"
   },
-  "author": "",
+  "author": "Mustamusta",
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.1.2",
