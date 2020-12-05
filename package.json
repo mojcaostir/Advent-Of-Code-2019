@@ -1,6 +1,6 @@
 {
   "name": "aoc2019",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
     "day01_2": "ts-node src/day01/part2.ts",
     "day02_1": "ts-node src/day02/part1.ts",
     "day02_2": "ts-node src/day02/part2.ts",
-    "day03_1": "ts-node src/day03/part1and2.ts"
+    "day03_1": "ts-node src/day03/part1and2.ts",
+    "day04_1": "ts-node src/day04/part1.ts",
+    "day04_2": "ts-node src/day04/part2.ts"
   },
   "author": "Mustamusta",
   "license": "ISC",
